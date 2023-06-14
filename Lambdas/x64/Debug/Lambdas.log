@@ -1,0 +1,4 @@
+﻿  Lambdas.cpp
+C:\demo-projects\cpp17-beyond-the-basics\Lambdas\Lambdas.cpp(14,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\demo-projects\cpp17-beyond-the-basics\Lambdas\Lambdas.cpp(15,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Lambdas.vcxproj -> C:\demo-projects\cpp17-beyond-the-basics\Lambdas\x64\Debug\Lambdas.exe
